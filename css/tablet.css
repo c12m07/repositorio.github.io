@@ -2,39 +2,34 @@
   body {
     height: auto;
   }
-
   .header {
     display: grid;
     padding: 20px 5%;
     grid-template-columns: 1fr;
   }
-
   .header__title {
     text-align: center;
     margin-bottom: 20px;
   }
-
   .trabajos__main {
     height: auto;
     margin-bottom: 60px;
   }
-
   .trabajos__main__element {
     flex-basis: 30%;
     max-height: 50%;
   }
-
   .contacto__main__element {
     width: 30%;
     height: 150px;
   }
-
   .about__main {
     width: 100%;
   }
-
   .footer {
     position: fixed;
     bottom: 0;
   }
 }
+
+/*# sourceMappingURL=tablet.css.map */

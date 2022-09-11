@@ -3,37 +3,32 @@
     grid-template-columns: 1fr 1fr;
     list-style: none;
   }
-
   .header__menu__element {
     height: 35px;
   }
-
   .trabajos__main__element {
     flex-basis: 80%;
     margin-bottom: 5%;
   }
-
   .inicio__main {
     height: 60vh;
   }
-
   .contacto__main__element {
     width: 45%;
     height: 150px;
   }
-
   .about__main {
     flex-flow: nowrap column;
     margin-top: 5px;
     align-items: center;
   }
-
   .about__main__element {
     margin: 0;
     width: 50%;
   }
-
   .about__main__element__text {
     margin: 10px 0px;
   }
 }
+
+/*# sourceMappingURL=movil.css.map */
